@@ -10,4 +10,4 @@ Welcome to my LeetCode repository! Here you'll find my solutions to various Leet
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://www.javascript.com/)
 
 ## LeetCode Stats
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=datphi&theme=light)
+![](https://leetcard.jacoblin.cool/datphi?animation=false)
